@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><data><GetAuthenticatedUserResponse> <tuple><old>
+        <entry dn="cn=u00z1f2@mod.nl,cn=authenticated users,cn=cordys,cn=ontwikkel,o=mod.nl" entryUUID="4498cb81-3d7c-4e37-b9b2-b2c676f87bd2">
+          <defaultcontext>
+            <string>o=grook,cn=cordys,cn=ontwikkel,o=mod.nl</string>
+          </defaultcontext>
+          <busextension>
+            <string><userprofile xmlns="http://common.schemas.bop.mindef.nl/1.0/userprofile"><medewerkerid>00000319780</medewerkerid><uaccount>u00z1f2</uaccount></userprofile></string>
+          </busextension>
+          <userPassword>
+            <string>{SHA1}Ru75sxqxM88xNNigHu95ZtuNpLc=</string>
+          </userPassword>
+          <description>
+            <string>u00z1f2@mod.nl</string>
+          </description>
+          <osidentity>
+            <string>u00z1f2@mod.nl</string>
+          </osidentity>
+          <cn>
+            <string>u00z1f2@mod.nl</string>
+          </cn>
+          <authenticationtype>
+            <string>custom</string>
+          </authenticationtype>
+          <objectclass>
+            <string>top</string>
+            <string>busauthenticationuser</string>
+          </objectclass>
+        </entry>
+      </old>
+    <new>
+        </new></tuple>
+                    <tuple><old>
+        <entry dn="cn=u00r699@mod.nl,cn=authenticated users,cn=cordys,cn=ontwikkel,o=mod.nl" entryUUID="6419cde8-acf7-4b7d-9e18-a6f1a84cc1ae">
+          <defaultcontext>
+            <string>o=Verlof 2.0,cn=cordys,cn=ontwikkel,o=mod.nl</string>
+          </defaultcontext>
+          <busextension>
+            <string><userprofile xmlns="http://common.schemas.bop.mindef.nl/1.0/userprofile"><medewerkerid>00000294173</medewerkerid><uaccount>u00r699</uaccount></userprofile></string>
+          </busextension>
+          <userPassword>
+            <string>{SHA1}o3XVSLf7mjNsqiLIjLSma0mahNQ=</string>
+          </userPassword>
+          <description>
+            <string>u00r699@mod.nl</string>
+          </description>
+          <osidentity>
+            <string>u00r699@mod.nl</string>
+          </osidentity>
+          <cn>
+            <string>u00r699@mod.nl</string>
+          </cn>
+          <authenticationtype>
+            <string>custom</string>
+          </authenticationtype>
+          <objectclass>
+            <string>top</string>
+            <string>busauthenticationuser</string>
+          </objectclass>
+        </entry>
+      </old>
+    <new>
+      </new></tuple></GetAuthenticatedUserResponse></data>

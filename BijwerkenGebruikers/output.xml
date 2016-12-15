@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><data>
+	<tuple>
+		<old>
+			<entry id="1">
+				<name>test</name>
+				<authenticationtype>
+					<string>custom</string>
+				</authenticationtype>
+			</entry>
+		</old>
+	<new><entry><authenticationtype><string>domain</string></authenticationtype></entry></new></tuple>
+	<tuple>
+		<old>
+			<entry id="2">
+				<name>test</name>
+				<authenticationtype>
+					<string>custom</string>
+				</authenticationtype>
+			</entry>
+		</old>
+	<new><entry><authenticationtype><string>domain</string></authenticationtype></entry></new></tuple>	
+</data>
