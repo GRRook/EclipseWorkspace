@@ -16,6 +16,21 @@ import org.json.simple.JSONObject;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONObject;
 
+/*
+ * Voorbeeld request:
+ * HTTP: GET, POST, DELETE
+ * 
+ * DELETE:
+ * localhost:8080/com.webservices.marshmello/rest/UserService/delete  
+ * GET:
+ * localhost:8080/com.webservices.marshmello/rest/UserService/users
+ * GET:
+ * localhost:8080/com.webservices.marshmello/rest/UserService/users/1
+ * POST:
+ * localhost:8080/com.webservices.marshmello/rest/UserService/insert
+ */
+
+
 @Path("/UserService")
 public class Person {
 
